@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Interactive Honeypot Fake Shell</h1>
+<h1 align="center">Network-honeypot-simulator</h1>
 <p align="center">
   Deception-driven cybersecurity system for real-time attacker interaction and behavioral analysis
 </p>
