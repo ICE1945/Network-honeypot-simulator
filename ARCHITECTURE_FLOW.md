@@ -46,7 +46,7 @@ flowchart TD
     style P fill:#1f2937,stroke:#e879f9,stroke-width:2px,color:#ffffff
     style Q fill:#3f1d2e,stroke:#fb7185,stroke-width:2px,color:#ffffff
     style R fill:#3f3f46,stroke:#facc15,stroke-width:2px,color:#ffffff
-    ````
+    ```
 
 
 
