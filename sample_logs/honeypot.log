@@ -1,0 +1,14 @@
+[2025-11-21 16:28:06] Connection from 127.0.0.1
+[2025-11-21 16:28:12] Username attempt: lkjs
+[2025-11-21 16:28:14] Password attempt: 1234
+[2025-11-21 16:28:19] Username retry: lkjsk
+[2025-11-21 16:28:26] CMD from 127.0.0.1: ls
+[2025-11-21 16:28:32] CMD from 127.0.0.1: pwd
+[2025-11-21 16:28:35] CMD from 127.0.0.1: cd /
+[2025-11-21 16:28:37] CMD from 127.0.0.1: ls
+[2025-11-21 16:28:42] CMD from 127.0.0.1: cd home
+[2025-11-21 16:28:43] CMD from 127.0.0.1: ls
+[2025-11-21 16:28:46] CMD from 127.0.0.1: cd user
+[2025-11-21 16:28:47] CMD from 127.0.0.1: ls
+[2025-11-21 16:28:52] CMD from 127.0.0.1: cat notes.txt
+[2025-11-21 16:30:52] Client disconnected: 127.0.0.1
