@@ -41,7 +41,7 @@ flowchart TD
     style K fill:#052e16,stroke:#4ade80,stroke-width:2px,color:#ffffff
     style L fill:#052e16,stroke:#4ade80,stroke-width:2px,color:#ffffff
     style M fill:#3f3f46,stroke:#facc15,stroke-width:2px,color:#ffffff
-    ````markdown
+    ````
 
 
 ## Flow Summary
