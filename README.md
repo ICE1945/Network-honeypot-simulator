@@ -1,4 +1,16 @@
-# Network-honeypot-simulator
+```markdown
+<h1 align="center">🛡️ Interactive Honeypot Fake Shell</h1>
+<p align="center">
+  Deception-driven cybersecurity system for real-time attacker interaction and behavioral analysis
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Cybersecurity-red">
+  <img src="https://img.shields.io/badge/Language-C++-blue">
+  <img src="https://img.shields.io/badge/Focus-Honeypot-green">
+  <img src="https://img.shields.io/badge/Approach-Deception-orange">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+</p>
 
 A professional **C++-based interactive honeypot** that simulates a fake Linux shell environment, captures suspicious login attempts, records attacker commands, and generates session logs for cybersecurity analysis.
 
