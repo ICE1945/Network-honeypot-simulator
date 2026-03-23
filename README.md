@@ -50,24 +50,24 @@ A well structured & documented overview of targeted attack behaviors and threat 
 
 
 
-## 🛠️ Technologies
+## Technologies
 
 Technologies and tools used in this project:
 
-👉 [Technologies](Technologies.md)
+[Technologies](Technologies.md)
 
 
 
 
-## ⚠️ Safety Note
+## Safety Note
 
 Usage guidelines and ethical considerations:
 
-👉 [Safety Notice](Safety_Notice.md)
+[Safety Notice](Safety_Notice.md)
 
 
 
-## 🎯 Project Goal
+## Project Goal
 
 This project demonstrates:
 
