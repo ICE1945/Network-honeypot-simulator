@@ -9,7 +9,6 @@ A minimal yet purpose-built stack focused on performance, control, and realistic
 - **C++**  
   High-performance systems programming for low-level control over networking, memory, and execution flow.
 
----
 
 ## Networking Layer
 
@@ -18,7 +17,6 @@ A minimal yet purpose-built stack focused on performance, control, and realistic
 - **TCP/IP Protocol**  
   Reliable communication channel for attacker interaction simulation
 
----
 
 ## System Architecture Components
 
@@ -31,7 +29,6 @@ A minimal yet purpose-built stack focused on performance, control, and realistic
 - **Fake Filesystem Layer**  
   Simulates a believable Linux-like environment to sustain attacker engagement  
 
----
 
 ## Observability & Logging
 
@@ -41,7 +38,6 @@ A minimal yet purpose-built stack focused on performance, control, and realistic
 - **Timestamping Mechanism**  
   Enables behavioral timeline reconstruction and forensic analysis  
 
----
 
 ## Design Philosophy
 
