@@ -10,3 +10,12 @@ This project was built to demonstrate practical **honeypot development, attacker
 The complete implementation is available in the source directory:
 
 [Source Code](src/honeypot.cpp)
+
+
+## Design Flow
+
+High-level honeypot workflow and architecture:
+
+👉 [ARCHITECTURE Flow](ARCHITECTURE_FLOW.md)
+
+---
