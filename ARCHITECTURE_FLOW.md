@@ -46,11 +46,4 @@ flowchart TD
     style P fill:#1f2937,stroke:#e879f9,stroke-width:2px,color:#ffffff
     style Q fill:#3f1d2e,stroke:#fb7185,stroke-width:2px,color:#ffffff
     style R fill:#3f3f46,stroke:#facc15,stroke-width:2px,color:#ffffff
-    ```
-
-
-
-
-## Flow Summary
-
-The honeypot begins by accepting an incoming TCP connection and presenting a fake authentication interface. Submitted usernames and passwords are captured and logged, after which the client is intentionally moved into a simulated shell environment. Each command is parsed, mapped to a controlled fake response, and returned to the client while command activity is recorded. The session continues until the attacker exits or disconnects, at which point the termination event is also logged.
+    
