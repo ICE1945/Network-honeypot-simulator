@@ -56,7 +56,8 @@ Technologies and tools used in this project:
 
 👉 [Technologies](Technologies.md)
 
----
+
+
 
 ## ⚠️ Safety Note
 
@@ -64,7 +65,7 @@ Usage guidelines and ethical considerations:
 
 👉 [Safety Notice](Safety_Notice.md)
 
----
+
 
 ## 🎯 Project Goal
 
@@ -76,7 +77,7 @@ This project demonstrates:
 - Fake shell environment simulation
 - Cyber deception techniques
 
----
+
 
 ## 👨‍💻 Author
 
